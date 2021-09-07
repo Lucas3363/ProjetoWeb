@@ -1,0 +1,39 @@
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    background-color: whitesmoke;
+}
+
+h1 {
+    background-color: #BDBDBD;
+    color: #FFFFFF;
+
+}
+
+a {
+    color: red;
+}
+
+img {
+    float: right;
+}
+
+.primeiroparagrafo {
+    background-color: yellow;
+
+}
+
+.segundoparagrafo {
+    background-color: aqua;
+}
+
+#blacksheet {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+a:hover {
+    background-color: yellow;
+    color: blue;
+}
